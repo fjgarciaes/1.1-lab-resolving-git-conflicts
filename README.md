@@ -16,7 +16,7 @@ If you have any doubts about the prerequisites please clarify with your instruct
 
 ### Overview of Steps
 
-Below is a summary of the steps you will follow in this lab:
+Below is a summary of the steps you will follow in thi	3klfn 3	lofnoql3gnrol1	3gnolgnloq3gnrqols lab:
 
 1. Commit changes on local branch and sync with remote.
 1. Create a conflict with the master branch.
