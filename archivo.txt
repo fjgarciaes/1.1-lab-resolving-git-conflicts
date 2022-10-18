@@ -1,1 +1,9 @@
+<<<<<<< HEAD
 adios
+=======
+Adios
+
+
+lwekjfn	wikefn	oe
++knfgwlkdfn	pñq
+>>>>>>> rama
